@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">App3</string>
+    <string name="addLabel">Add</string>
+    <string name="editLabel">Edit</string>
+    <string name="confirmLabel">Yes</string>
+    <string name="rejectLabel">Cancel</string>
+    <string name="title_activity_main2">Add student</string>
+    <string name="title_activity_main3">Delete student</string>
+    <string name="addNameText"></string>
+    <string name="title_activity_main4">Edit</string>
+
+
+    <string-array name="students">
+        <item>Pedro Almeida</item>
+        <item>Marta Kaplinska</item>
+        <item>Grzegorz Brzęczyszczykiewicz</item>
+    </string-array>
+
+</resources>
